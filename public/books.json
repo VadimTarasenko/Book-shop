@@ -1,0 +1,146 @@
+[
+    {
+        "id":0,
+        "title": "Зеленая миля",
+        "author": "С. Кинг",
+        "image": "https://bookzone.com.ua/upload/iblock/d02/d0242e129370ad57cacb8ac91eff3e01.jpg",
+        "price": 79.90,
+        "rating": 3
+    },
+    {
+        "id":1,
+        "title": "Преступление и наказание",
+        "author": "Ф. Достоевский",
+        "image": "https://bookzone.com.ua/upload/iblock/dec/dec93d591338fe28e5dc41c8b973027e.jpg",
+        "price": 99.90,
+        "rating": 3
+    },
+    {
+        "id":2,
+        "title": "Год в Провансе",
+        "author": "П. Мейл",
+        "image": "https://bookzone.com.ua/upload/iblock/4fd/4fdb6e4cd2ebbb24bfe81abd95b30fe4.jpg",
+        "price": 135.00,
+        "rating": 3
+    },
+    {
+        "id":4,
+        "title": "Нетопирь",
+        "author": "Ю. Несбе",
+        "image": "https://bookzone.com.ua/upload/iblock/a92/a924760dd938b6f79b04449d03cf7909.jpg",
+        "price": 159.90,
+        "rating": 3
+    },
+    {
+        "id":5,
+        "title": "Будет больно: история врача",
+        "author": "А. Кей",
+        "image": "https://bookzone.com.ua/upload/iblock/0e6/0e61602f95f48b44bde2022b818d631e.jpg",
+        "price": 165.90,
+        "rating": 3
+    },
+    {
+        "id":6,
+        "title": "Залишенець. Чорний ворон",
+        "author": "С. Шкляр",
+        "image": "https://bookzone.com.ua/upload/iblock/5bf/5bf4ff690d05aa1cab76a7a403c993bd.jpg",
+        "price": 99.90,
+        "rating": 3
+    },
+    {
+        "id":7,
+        "title": "Путешествие к центру Земли",
+        "author": "Ж. Верн",
+        "image": "https://bookzone.com.ua/upload/iblock/524/52499492469e977b3fe4e0bd4964656d.jpg",
+        "price": 145.00,
+        "rating": 3
+    },
+    {
+        "id":8,
+        "title": "Мастер и Маргарита",
+        "author": "М. Булгаков",
+        "image": "https://bookzone.com.ua/upload/iblock/e84/e8407a6bf415faa517f5cad6b6a3b1d1.jpg",
+        "price": 89.90,
+        "rating": 3
+    },
+    {
+        "id":9,
+        "title": "Зов Кукушки",
+        "author": "Р. Гєлбрейт",
+        "image": "https://bookzone.com.ua/upload/iblock/6c6/6c678070f9e5b576e5495a3afa43db79.jpg",
+        "price": 290,
+        "rating": 3
+    },
+    {
+        "id":10,
+        "title": "Завтрак у Тиффани",
+        "author": "Т. Капоте",
+        "image": "https://bookzone.com.ua/upload/iblock/195/1957a078ad98b1b1a5213c218d87388e.jpg",
+        "price": 35,
+        "rating": 3
+    },
+    {
+        "id":11,
+        "title": "Над пропастью во ржи",
+        "author": "Д. Джером",
+        "image": "https://bookzone.com.ua/upload/iblock/d2f/d2fd3c73f03c6f98b702b31fb02a2eb0.jpg",
+        "price": 69,
+        "rating": 3
+    },
+    {
+        "id":12,
+        "title": "Алхимик",
+        "author": "П. Коєльо",
+        "image": "https://bookzone.com.ua/upload/iblock/88f/88f03ea08b88a455f0d525dedc9ee6ec.jpg",
+        "price": 100,
+        "rating": 3
+    },
+    {
+        "id":13,
+        "title": "Библиотека душ",
+        "author": "Р. Риггз",
+        "image": "https://bookzone.com.ua/upload/iblock/9ae/9aea550a4644500866b26723098a9cb9.jpg",
+        "price": 340,
+        "rating": 3
+    },
+    {
+        "id":14,
+        "title": "Фантастичні звірі і де їх шукати",
+        "author": "Д. Ролінг",
+        "image": "https://vignette.wikia.nocookie.net/harrypotter/images/4/41/FBSoundtrack.jpg/revision/latest?cb=20161119121826&path-prefix=ru",
+        "price": 113,
+        "rating": 3
+    },
+    {
+        "id":15,
+        "title": "Гордость и предубеждение",
+        "author": "Д. Остин",
+        "image": "https://bookzone.com.ua/upload/iblock/a09/a09b96525b962ef5478536fd6f8c3040.jpg",
+        "price": 52,
+        "rating": 3
+    },
+    {
+        "id":16,
+        "title": "Сильмариллион",
+        "author": "Р. Толкин",
+        "image": "https://bookzone.com.ua/upload/iblock/f87/f87269c17cb645317631aae6d9b21b79.jpg",
+        "price": 145,
+        "rating": 3
+    },
+    {
+        "id":17,
+        "title": "Чорние місто",
+        "author": "Б. Акунин",
+        "image": "https://bookzone.com.ua/upload/iblock/503/503b9c61bbc141da2e59a1c66202ed4c.jpg",
+        "price": 153,
+        "rating": 3
+    },
+    {
+        "id":18,
+        "title": "Искусство оскорблять",
+        "author": "А. Невзоров",
+        "image": "https://bookzone.com.ua/upload/iblock/c4c/c4c08f1e873997921a1483dfe56e927a.jpg",
+        "price": 305,
+        "rating": 3
+    }
+]
